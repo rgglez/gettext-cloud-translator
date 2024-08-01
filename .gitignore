@@ -1,0 +1,7 @@
+.env
+locale/
+dist/
+*.egg-info/
+__pycache__
+build/
+db.sqlite3
